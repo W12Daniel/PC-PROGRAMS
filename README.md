@@ -12,8 +12,8 @@
 
 ######this is insane######
 
-_THIRD STEP: MAKE A PLANE FOR THE ADVANCE OF THE PROJECT._
-**THAT WAS ALL**
-**that was a joke**,_aren"t it?_
+######_THIRD STEP: MAKE A PLANE FOR THE ADVANCE OF THE PROJECT._######
+######**THAT WAS ALL**######
+######**that was a joke**,_aren"t it?_######
 
-**_THANK YOU FOR YOUR ATTETNTION_**
+######**_THANK YOU FOR YOUR ATTETNTION_**######
