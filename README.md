@@ -8,9 +8,9 @@
 
 ####SECOND STEP:WORK WITH YOUR COLLEAGUES####
 
-######that was foolks#####
+#####that was foolks#####
 
-#######this is insane######
+######this is insane######
 
 _THIRD STEP: MAKE A PLANE FOR THE ADVANCE OF THE PROJECT._
 **THAT WAS ALL**
