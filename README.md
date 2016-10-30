@@ -21,3 +21,8 @@
 ["Search new lessons"](www.github.com)
 ####["Search new lessons"](www.github.com)####
 
+Here is [my best page][first place]
+This is [my another page for you][second place]
+
+[first place]: wwww.gamestar.hu
+[second place]: wwww.gamekapocs.hu
