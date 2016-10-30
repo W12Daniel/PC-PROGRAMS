@@ -16,5 +16,8 @@
 ######**THAT WAS ALL**######
 ######**that was a joke**,_aren"t it?_######
 ######**_THANK YOU FOR YOUR ATTETNTION_**######
-
+###inline links###
 [Search new lessons](www.github.com)
+["Search new lessons"](www.github.com)
+####["Search new lessons"](www.github.com)####
+
