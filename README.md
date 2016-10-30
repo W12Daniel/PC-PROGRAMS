@@ -15,5 +15,4 @@
 ######_THIRD STEP: MAKE A PLANE FOR THE ADVANCE OF THE PROJECT._######
 ######**THAT WAS ALL**######
 ######**that was a joke**,_aren"t it?_######
-
 ######**_THANK YOU FOR YOUR ATTETNTION_**######
