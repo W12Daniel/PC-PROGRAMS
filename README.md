@@ -27,4 +27,4 @@ This is [my another page for you][second place]
 [first place]: wwww.gamestar.hu
 [second place]: wwww.gamekapocs.hu
 
-![zelda](http://cdn1-www.comingsoon.net/assets/uploads/gallery/the-legend-of-zelda-1402428720/zelda0005.jpg)
+![zelda](http://cdn1-www.comingsoon.net/assets/uploads/gallery/the-legend-of-zelda-1402428720/zelda0005.jpg "zelda on switch")
