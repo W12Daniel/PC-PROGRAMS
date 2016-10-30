@@ -16,4 +16,4 @@
 ######**THAT WAS ALL**######
 ######**that was a joke**,_aren"t it?_######
 ######**_THANK YOU FOR YOUR ATTETNTION_**######
-[Search the unkown words](www.google.com)
+[Search new lessons](www.github.com)
