@@ -35,3 +35,5 @@ This is [my another page for you][second place]
 [linkb]: http://blogs-images.forbes.com/insertcoin/files/2016/10/nintendo-switch2.jpg "switch"
 >"This will be chance the wold"  
 Sayed michael
+
+and the others
