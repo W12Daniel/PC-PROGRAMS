@@ -42,5 +42,6 @@ Sayed michael
  * AKAC
   * AKAC
 
-1. ASDASD,CUT ED
+1. ASDASD
+CUT ED
 
